@@ -1,0 +1,49 @@
+#animal-cards {
+  font-family:"Times", serif;
+  font-size: 12px;
+  width:330px;
+  border: 2px solid LightGray;
+  box-shadow: 10px 10px 5px Gray;
+  background-color:Gainsboro;
+  }
+
+.Koala {
+  font-size:24px;
+  border-style:solid;
+  border-color:Gainsboro;
+  border-width:0px 0px 0px 15px;
+}
+
+.Koala-pic {
+  width=300px;
+  border:1px solid DarkGray;
+  border-radius:5px;
+  margin:5px 15px 5px 15px;
+}
+
+.Koala-details {
+  width:300px;
+  border:1px solid DarkGray;
+  border-radius:5px;
+  margin: 10px 15px 15px 15px;
+  background-color: MintCream;
+}
+
+p.interesting-fact {
+  font-style:italic;
+  margin:15px;
+}
+
+span {
+  font-weight:bold;
+}
+
+.list-items {
+  list-style:none;
+  padding:0;
+  margin:15px;
+}
+
+.description {
+  margin:15px;
+}
